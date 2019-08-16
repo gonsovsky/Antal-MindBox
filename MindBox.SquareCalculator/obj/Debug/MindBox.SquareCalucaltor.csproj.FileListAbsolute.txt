@@ -1,0 +1,13 @@
+C:\Users\K\source\repos\MindBox.AreaOfCircle\MindBox.AreaOfCircle\obj\Debug\MindBox.SquareCalucaltor.csprojAssemblyReference.cache
+C:\Users\K\source\repos\MindBox.AreaOfCircle\MindBox.AreaOfCircle\obj\Debug\MindBox.SquareCalucaltor.csproj.CoreCompileInputs.cache
+C:\Users\K\source\repos\MindBox.SquareCalculator\MindBox.SquareCalculator\bin\Debug\MindBox.SquareCalucaltor.dll
+C:\Users\K\source\repos\MindBox.SquareCalculator\MindBox.SquareCalculator\bin\Debug\MindBox.SquareCalucaltor.pdb
+C:\Users\K\source\repos\MindBox.SquareCalculator\MindBox.SquareCalculator\obj\Debug\MindBox.SquareCalucaltor.csproj.CoreCompileInputs.cache
+C:\Users\K\source\repos\MindBox.SquareCalculator\MindBox.SquareCalculator\obj\Debug\MindBox.SquareCalucaltor.dll
+C:\Users\K\source\repos\MindBox.SquareCalculator\MindBox.SquareCalculator\obj\Debug\MindBox.SquareCalucaltor.pdb
+C:\11111\mindbox\MindBox.SquareCalculator\bin\Debug\MindBox.SquareCalucaltor.dll
+C:\11111\mindbox\MindBox.SquareCalculator\bin\Debug\MindBox.SquareCalucaltor.pdb
+C:\11111\mindbox\MindBox.SquareCalculator\obj\Debug\MindBox.SquareCalucaltor.csprojAssemblyReference.cache
+C:\11111\mindbox\MindBox.SquareCalculator\obj\Debug\MindBox.SquareCalucaltor.csproj.CoreCompileInputs.cache
+C:\11111\mindbox\MindBox.SquareCalculator\obj\Debug\MindBox.SquareCalucaltor.dll
+C:\11111\mindbox\MindBox.SquareCalculator\obj\Debug\MindBox.SquareCalucaltor.pdb

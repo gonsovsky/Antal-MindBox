@@ -1,0 +1,20 @@
+﻿CREATE TABLE [dbo].[category] (
+    [Id]       INT          IDENTITY (1, 1) NOT NULL,
+    [category] VARCHAR (50) NOT NULL
+);
+
+CREATE TABLE [dbo].[product] (
+    [Id]      INT          IDENTITY (1, 1) NOT NULL,
+    [product] VARCHAR (50) NOT NULL
+);
+
+CREATE TABLE [dbo].[cp] (
+    [idProduct]  INT NOT NULL,
+    [idCategory] INT NOT NULL
+);
+
+CREATE VIEW [dbo].Result as
+select product,isnull(category,'(НЕТ)') as category from product p 
+left join cp on cp.idProduct=p.id
+left join category c on c.id = cp.idCategory
+

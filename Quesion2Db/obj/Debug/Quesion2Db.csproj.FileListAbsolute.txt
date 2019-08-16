@@ -1,0 +1,9 @@
+C:\11111\mindbox\Quesion2Db\bin\Debug\db.mdf
+C:\11111\mindbox\Quesion2Db\bin\Debug\db_log.ldf
+C:\11111\mindbox\Quesion2Db\bin\Debug\Quesion2Db.exe.config
+C:\11111\mindbox\Quesion2Db\bin\Debug\Quesion2Db.exe
+C:\11111\mindbox\Quesion2Db\bin\Debug\Quesion2Db.pdb
+C:\11111\mindbox\Quesion2Db\obj\Debug\Quesion2Db.csprojAssemblyReference.cache
+C:\11111\mindbox\Quesion2Db\obj\Debug\Quesion2Db.csproj.CoreCompileInputs.cache
+C:\11111\mindbox\Quesion2Db\obj\Debug\Quesion2Db.exe
+C:\11111\mindbox\Quesion2Db\obj\Debug\Quesion2Db.pdb
